@@ -1,4 +1,4 @@
-# upSign [![License](https://img.shields.io/badge/license-GNU-blue.svg)](LICENSE)
+# upSign [![License](https://img.shields.io/badge/license-apache2-blue.svg)](LICENSE)
 
 上上签 - 基于html5的签到系统
  - 用于参加齐鲁大学生软件设计大赛中的html5创意应用命题
